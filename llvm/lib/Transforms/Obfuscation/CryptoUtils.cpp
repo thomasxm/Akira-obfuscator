@@ -29,6 +29,7 @@
 #include <cstdlib>
 #include <cassert>
 #include <cstring>
+#include <fstream>
 
 #ifdef _WIN32
 #include <random>
